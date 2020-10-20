@@ -2,24 +2,24 @@ GENERO,EDAD,PERSONALIDAD,FUMADOR,CONSUMES_FUMAR,ALCOHOL,FRECUENCIA_ALCOHOL,PROBL
 Hombre,28,Amistoso,No,Ninguno,No,De vez en cuando,Si,Separados,Si,No,No,Si,Si,Si,Si
 Mujer,61,Amistoso,No,Ninguno,No,Nunca,Si,Casados,No,Si,No,Si,No,Si,No
 Hombre,24,Amistoso,No,Ninguno,No,Nunca,No,Casados,No,No,No,No,No,Si,No
-Mujer,54,Tímido,No,Ninguno,No,Nunca,No,Divorciados,No,No,No,No,No,Si,Si
+Mujer,54,Timido,No,Ninguno,No,Nunca,No,Divorciados,No,No,No,No,No,Si,Si
 Hombre,43,Amistoso,Si,Cigarrillo,Si,De vez en cuando,No,Separados,Si,No,No,Si,No,Si,No
 Mujer,25,Amistoso,No,Ninguno,No,Nunca,Si,Divorciados,Si,No,No,No,No,Si,Si
-Mujer,37,Tímido,No,Ninguno,Si,De vez en cuando,Si,Divorciados,Si,Si,No,No,No,No,No
-Mujer,39,Tímido,No,Ninguno,No,De vez en cuando,Si,Casados,Si,Si,Si,No,No,No,Si
-Hombre,30,Tímido,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,No,No,No,Si,No
-Hombre,26,Tímido,No,Ninguno,Si,Mensualmente,No,Casados,No,Si,No,No,No,Si,No
+Mujer,37,Timido,No,Ninguno,Si,De vez en cuando,Si,Divorciados,Si,Si,No,No,No,No,No
+Mujer,39,Timido,No,Ninguno,No,De vez en cuando,Si,Casados,Si,Si,Si,No,No,No,Si
+Hombre,30,Timido,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,No,No,No,Si,No
+Hombre,26,Timido,No,Ninguno,Si,Mensualmente,No,Casados,No,Si,No,No,No,Si,No
 Mujer,33,Amistoso,No,Ninguno,No,Nunca,No,Separados,Si,No,No,No,Si,Si,Si
 Hombre,29,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,No,No,Si,Si,No,Si,No
 Mujer,35,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,No,No,No,Si,No
-Hombre,35,Tímido,No,Ninguno,No,De vez en cuando,Si,Divorciados,Si,No,No,No,Si,Si,Si
-Mujer,29,Tímido,No,Ninguno,No,Nunca,No,Casados,Si,No,Si,Si,Si,Si,Si
-Hombre,40,Tímido,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
+Hombre,35,Timido,No,Ninguno,No,De vez en cuando,Si,Divorciados,Si,No,No,No,Si,Si,Si
+Mujer,29,Timido,No,Ninguno,No,Nunca,No,Casados,Si,No,Si,Si,Si,Si,Si
+Hombre,40,Timido,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
 Hombre,30,Amistoso,No,Ninguno,No,Nunca,No,Separados,Si,No,No,Si,No,Si,No
 Mujer,30,Amistoso,No,Ninguno,No,Nunca,No,Viudos,No,No,No,No,No,Si,Si
-Mujer,26,Tímido,No,Ninguno,No,Nunca,Si,Casados,Si,Si,No,No,Si,No,Si
+Mujer,26,Timido,No,Ninguno,No,Nunca,Si,Casados,Si,Si,No,No,Si,No,Si
 Mujer,40,Amistoso,No,Ninguno,Si,Semanalmente,Si,Divorciados,Si,No,No,Si,No,Si,No
-Mujer,42,Tímido,No,Ninguno,Si,De vez en cuando,Si,Casados,Si,No,No,Si,No,Si,No
+Mujer,42,Timido,No,Ninguno,Si,De vez en cuando,Si,Casados,Si,No,No,Si,No,Si,No
 Mujer,42,Amistoso,No,Ninguno,No,Nunca,No,Separados,Si,No,No,No,No,Si,No
 Mujer,42,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,Si,No,No,Si,Si
 Hombre,66,Amistoso,No,Ninguno,No,De vez en cuando,No,Otro,No,No,No,No,No,Si,Si
@@ -31,8 +31,8 @@ Mujer,23,Amistoso,No,Ninguno,Si,De vez en cuando,Si,Casados,No,No,No,No,No,Si,Si
 Mujer,38,Amistoso,Si,Cigarrillo,Si,Mensualmente,No,Divorciados,No,Si,Si,Si,No,Si,No
 Mujer,50,Amistoso,No,Ninguno,No,Nunca,No,Casados,No,No,No,No,No,Si,No
 Hombre,42,Amistoso,No,Ninguno,No,Nunca,No,Separados,Si,No,No,No,No,Si,No
-Hombre,24,Tímido,No,Cigarrillo,Si,De vez en cuando,No,Casados,No,No,No,Si,No,Si,No
-Hombre,23,Tímido,Si,Cigarrillo,No,Nunca,Si,Casados,Si,Si,No,No,No,No,Si
+Hombre,24,Timido,No,Cigarrillo,Si,De vez en cuando,No,Casados,No,No,No,Si,No,Si,No
+Hombre,23,Timido,Si,Cigarrillo,No,Nunca,Si,Casados,Si,Si,No,No,No,No,Si
 Mujer,35,Amistoso,No,Ninguno,No,De vez en cuando,No,Casados,No,No,Si,No,Si,Si,Si
 Mujer,28,Amistoso,No,Ninguno,No,Nunca,No,Casados,No,No,Si,Si,No,Si,No
 Mujer,52,Amistoso,No,Ninguno,No,De vez en cuando,No,Viudos,Si,No,No,No,No,Si,No
@@ -43,207 +43,207 @@ Hombre,40,Amistoso,No,Marihuana,Si,Mensualmente,Si,Viudos,Si,No,Si,Si,Si,Si,No
 Mujer,27,Amistoso,No,Ninguno,No,Nunca,No,Casados,Si,No,No,Si,No,Si,No
 Hombre,16,Amistoso,No,Ninguno,Si,Mensualmente,No,Casados,No,Si,Si,No,Si,No,Si
 Hombre,45,Amistoso,No,Ninguno,No,Nunca,No,Divorciados,No,No,No,No,No,Si,No
-Mujer,20,Tímido,No,Ninguno,No,De vez en cuando,No,Otro,Si,No,No,Si,Si,Si,Si
+Mujer,20,Timido,No,Ninguno,No,De vez en cuando,No,Otro,Si,No,No,Si,Si,Si,Si
 Hombre,19,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,No,No,No,No,No,Si,No
-Mujer,20,Tímido,No,Ninguno,No,Nunca,No,Casados,Si,Si,Si,No,No,Si,No
+Mujer,20,Timido,No,Ninguno,No,Nunca,No,Casados,Si,Si,Si,No,No,Si,No
 Mujer,19,Amistoso,No,Ninguno,Si,De vez en cuando,Si,Casados,No,Si,Si,Si,Si,Si,Si
-Mujer,21,Tímido,No,Ninguno,Si,De vez en cuando,Si,Separados,Si,Si,Si,Si,Si,No,Si
+Mujer,21,Timido,No,Ninguno,Si,De vez en cuando,Si,Separados,Si,Si,Si,Si,Si,No,Si
 Mujer,19,Amistoso,No,Ninguno,No,Nunca,No,Separados,Si,Si,No,No,No,Si,No
 Mujer,18,Amistoso,No,Ninguno,Si,De vez en cuando,Si,Otro,Si,Si,Si,Si,Si,No,Si
-Mujer,19,Tímido,No,Ninguno,Si,De vez en cuando,No,Casados,No,No,No,No,No,Si,No
+Mujer,19,Timido,No,Ninguno,Si,De vez en cuando,No,Casados,No,No,No,No,No,Si,No
 Mujer,18,Amistoso,No,Ninguno,Si,Mensualmente,No,Divorciados,Si,Si,No,No,No,Si,No
-Mujer,20,Tímido,No,Ninguno,Si,Mensualmente,Si,Casados,No,Si,Si,No,Si,No,Si
+Mujer,20,Timido,No,Ninguno,Si,Mensualmente,Si,Casados,No,Si,Si,No,Si,No,Si
 Hombre,22,Amistoso,No,Ninguno,No,Nunca,Si,Otro,No,No,No,Si,No,Si,Si
-Hombre,19,Tímido,No,Ninguno,Si,Mensualmente,No,Casados,Si,No,No,No,No,Si,No
-Hombre,19,Tímido,Si,Cigarrillo,Si,De vez en cuando,Si,Casados,No,No,Si,Si,No,Si,No
+Hombre,19,Timido,No,Ninguno,Si,Mensualmente,No,Casados,Si,No,No,No,No,Si,No
+Hombre,19,Timido,Si,Cigarrillo,Si,De vez en cuando,Si,Casados,No,No,Si,Si,No,Si,No
 Mujer,33,Amistoso,No,Ninguno,Si,Mensualmente,No,Casados,No,No,Si,No,No,Si,No
 Mujer,34,Amistoso,No,Marihuana,No,Nunca,Si,Casados,Si,No,No,No,Si,No,Si
-Hombre,21,Tímido,Si,Cigarrillo,No,Nunca,Si,Casados,Si,Si,Si,No,Si,Si,Si
-Hombre,19,Tímido,No,Marihuana,No,Mensualmente,No,Divorciados,Si,No,No,No,No,Si,Si
+Hombre,21,Timido,Si,Cigarrillo,No,Nunca,Si,Casados,Si,Si,Si,No,Si,Si,Si
+Hombre,19,Timido,No,Marihuana,No,Mensualmente,No,Divorciados,Si,No,No,No,No,Si,Si
 Mujer,19,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,No,No,No,No,No,Si,Si
 Mujer,46,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,No,No,No,Si,No
-Mujer,20,Tímido,No,Ninguno,Si,De vez en cuando,Si,Casados,Si,No,No,Si,Si,No,Si
-Mujer,21,Tímido,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,No,No,No,Si,No
+Mujer,20,Timido,No,Ninguno,Si,De vez en cuando,Si,Casados,Si,No,No,Si,Si,No,Si
+Mujer,21,Timido,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,No,No,No,Si,No
 Hombre,19,Amistoso,No,Ninguno,Si,Mensualmente,No,Casados,No,No,No,No,No,Si,No
-Hombre,20,Tímido,Si,Cigarrillo,No,Nunca,Si,Separados,No,Si,Si,Si,Si,No,Si
-Hombre,20,Tímido,Si,Cigarrillo,No,Nunca,Si,Separados,No,Si,Si,Si,Si,No,Si
+Hombre,20,Timido,Si,Cigarrillo,No,Nunca,Si,Separados,No,Si,Si,Si,Si,No,Si
+Hombre,20,Timido,Si,Cigarrillo,No,Nunca,Si,Separados,No,Si,Si,Si,Si,No,Si
 Mujer,21,Amistoso,Si,Cigarrillo,Si,Mensualmente,Si,Divorciados,Si,Si,No,Si,Si,No,Si
-Mujer,20,Tímido,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
+Mujer,20,Timido,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
 Hombre,19,Amistoso,Si,Vapes,No,Nunca,Si,Divorciados,No,Si,Si,Si,No,Si,Si
 Mujer,19,Amistoso,No,Ninguno,Si,De vez en cuando,No,Separados,Si,No,No,Si,Si,Si,Si
-Hombre,30,Tímido,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,No,No,No,Si,No
+Hombre,30,Timido,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,No,No,No,Si,No
 Mujer,24,Amistoso,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
-Mujer,29,Tímido,No,Ninguno,No,Nunca,No,Divorciados,Si,No,Si,No,No,Si,No
+Mujer,29,Timido,No,Ninguno,No,Nunca,No,Divorciados,Si,No,Si,No,No,Si,No
 Hombre,28,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,No,No,No,Si,No
 Mujer,29,Amistoso,No,Ninguno,Si,De vez en cuando,No,Viudos,Si,No,No,No,No,Si,No
 Mujer,27,Amistoso,No,Ninguno,Si,Mensualmente,Si,Divorciados,No,Si,No,No,No,No,Si
 Mujer,15,Amistoso,No,Ninguno,No,Nunca,No,Casados,No,Si,Si,Si,Si,Si,Si
 Hombre,21,Amistoso,No,Ninguno,No,Nunca,No,Casados,No,No,No,No,No,Si,No
-Mujer,19,Tímido,No,Ninguno,No,Nunca,Si,Casados,No,Si,Si,Si,No,No,Si
-Hombre,39,Tímido,No,Ninguno,Si,Semanalmente,No,Casados,Si,No,No,No,No,Si,Si
+Mujer,19,Timido,No,Ninguno,No,Nunca,Si,Casados,No,Si,Si,Si,No,No,Si
+Hombre,39,Timido,No,Ninguno,Si,Semanalmente,No,Casados,Si,No,No,No,No,Si,Si
 Hombre,18,Amistoso,No,Cigarrillo,Si,De vez en cuando,Si,Otro,No,No,Si,No,No,Si,Si
-Hombre,30,Tímido,No,Ninguno,No,Nunca,Si,Otro,Si,No,No,No,No,Si,Si
+Hombre,30,Timido,No,Ninguno,No,Nunca,Si,Otro,Si,No,No,No,No,Si,Si
 Mujer,28,Amistoso,No,Ninguno,No,Nunca,Si,Casados,Si,No,No,No,No,Si,Si
-Hombre,19,Tímido,No,Ninguno,Si,De vez en cuando,No,Casados,No,Si,Si,No,No,No,Si
+Hombre,19,Timido,No,Ninguno,Si,De vez en cuando,No,Casados,No,Si,Si,No,No,No,Si
 Hombre,21,Amistoso,No,Ninguno,No,Nunca,No,Casados,No,Si,No,Si,No,Si,Si
 Mujer,16,Amistoso,No,Ninguno,Si,De vez en cuando,Si,Casados,No,No,Si,Si,Si,No,Si
 Mujer,20,Amistoso,Si,Vapes,Si,Mensualmente,Si,Separados,Si,Si,Si,Si,Si,Si,Si
-Hombre,20,Tímido,No,Ninguno,Si,De vez en cuando,No,Separados,No,Si,Si,Si,No,Si,No
+Hombre,20,Timido,No,Ninguno,Si,De vez en cuando,No,Separados,No,Si,Si,Si,No,Si,No
 Mujer,23,Amistoso,No,Ninguno,No,Nunca,No,Casados,No,Si,No,No,No,Si,No
 Hombre,29,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,No,No,No,No,No,Si,No
 Mujer,18,Amistoso,No,Ninguno,Si,De vez en cuando,No,Divorciados,Si,No,No,No,No,Si,No
 Mujer,16,Amistoso,No,Ninguno,Si,De vez en cuando,Si,Casados,Si,Si,No,No,No,Si,No
 Mujer,19,Amistoso,Si,Cigarrillo,Si,Mensualmente,No,Casados,Si,No,Si,No,No,Si,No
-Mujer,20,Tímido,No,Ninguno,Si,De vez en cuando,Si,Casados,No,Si,No,No,Si,Si,Si
+Mujer,20,Timido,No,Ninguno,Si,De vez en cuando,Si,Casados,No,Si,No,No,Si,Si,Si
 Hombre,15,Amistoso,Si,Cigarrillo,Si,De vez en cuando,No,Casados,Si,No,Si,Si,Si,Si,Si
-Mujer,19,Tímido,No,Ninguno,No,Nunca,Si,Casados,No,Si,Si,Si,No,Si,Si
+Mujer,19,Timido,No,Ninguno,No,Nunca,Si,Casados,No,Si,Si,Si,No,Si,Si
 Hombre,16,Amistoso,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,Si,Si,Si
 Mujer,60,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,No,No,Si,No,No,Si,No
-Mujer,16,Tímido,No,Ninguno,Si,Mensualmente,Si,Otro,Si,Si,Si,Si,Si,No,Si
-Hombre,15,Tímido,Si,Cigarrillo,Si,Mensualmente,Si,Separados,No,Si,Si,No,No,No,No
+Mujer,16,Timido,No,Ninguno,Si,Mensualmente,Si,Otro,Si,Si,Si,Si,Si,No,Si
+Hombre,15,Timido,Si,Cigarrillo,Si,Mensualmente,Si,Separados,No,Si,Si,No,No,No,No
 Mujer,16,Amistoso,No,Ninguno,No,Nunca,Si,Casados,Si,No,Si,Si,Si,No,Si
-Mujer,18,Tímido,No,Ninguno,No,Nunca,Si,Separados,No,Si,No,No,Si,Si,Si
+Mujer,18,Timido,No,Ninguno,No,Nunca,Si,Separados,No,Si,No,No,Si,Si,Si
 Hombre,19,Amistoso,No,Ninguno,No,Nunca,No,Casados,No,No,Si,No,Si,Si,Si
 Mujer,16,Amistoso,No,Ninguno,No,Nunca,No,Casados,No,No,No,Si,Si,Si,Si
-Hombre,25,Tímido,No,Ninguno,Si,Mensualmente,Si,Separados,No,Si,No,No,No,Si,Si
+Hombre,25,Timido,No,Ninguno,Si,Mensualmente,Si,Separados,No,Si,No,No,No,Si,Si
 Mujer,25,Amistoso,No,Ninguno,No,Nunca,No,Divorciados,Si,No,No,No,No,Si,No
-Hombre,17,Tímido,No,Ninguno,No,Nunca,Si,Casados,Si,No,Si,No,Si,Si,Si
-Hombre,17,Tímido,No,Ninguno,No,Nunca,Si,Casados,Si,No,Si,No,Si,Si,Si
-Hombre,17,Tímido,No,Ninguno,No,Nunca,Si,Casados,Si,No,Si,No,Si,Si,Si
-Hombre,22,Tímido,No,Cigarrillo,Si,De vez en cuando,No,Separados,No,No,No,No,No,Si,No
-Mujer,19,Tímido,No,Ninguno,No,De vez en cuando,No,Casados,Si,Si,Si,Si,Si,No,Si
+Hombre,17,Timido,No,Ninguno,No,Nunca,Si,Casados,Si,No,Si,No,Si,Si,Si
+Hombre,17,Timido,No,Ninguno,No,Nunca,Si,Casados,Si,No,Si,No,Si,Si,Si
+Hombre,17,Timido,No,Ninguno,No,Nunca,Si,Casados,Si,No,Si,No,Si,Si,Si
+Hombre,22,Timido,No,Cigarrillo,Si,De vez en cuando,No,Separados,No,No,No,No,No,Si,No
+Mujer,19,Timido,No,Ninguno,No,De vez en cuando,No,Casados,Si,Si,Si,Si,Si,No,Si
 Hombre,27,Amistoso,No,Cigarrillo,No,De vez en cuando,Si,Separados,Si,No,No,No,No,Si,Si
 Mujer,29,Amistoso,No,Ninguno,No,Nunca,Si,Viudos,No,No,No,Si,No,No,Si
 Mujer,22,Amistoso,No,Ninguno,No,Nunca,No,Casados,Si,No,No,Si,No,Si,No
-Hombre,29,Tímido,No,Cigarrillo,Si,De vez en cuando,Si,Separados,Si,No,No,Si,No,Si,No
+Hombre,29,Timido,No,Cigarrillo,Si,De vez en cuando,Si,Separados,Si,No,No,Si,No,Si,No
 Hombre,26,Amistoso,Si,Cigarrillo,Si,Semanalmente,Si,Viudos,No,No,Si,Si,No,No,Si
 Mujer,51,Amistoso,No,Ninguno,No,Nunca,Si,Otro,Si,Si,No,No,Si,Si,Si
 Hombre,28,Amistoso,No,Ninguno,No,Nunca,No,Casados,No,Si,Si,No,No,No,Si
-Mujer,28,Tímido,No,Ninguno,Si,De vez en cuando,Si,Viudos,No,Si,Si,No,No,Si,Si
+Mujer,28,Timido,No,Ninguno,Si,De vez en cuando,Si,Viudos,No,Si,Si,No,No,Si,Si
 Mujer,30,Amistoso,No,Ninguno,Si,De vez en cuando,No,Divorciados,Si,No,No,No,No,Si,No
 Hombre,21,Amistoso,Si,Cigarrillo,Si,Mensualmente,No,Separados,No,Si,Si,Si,No,Si,No
-Hombre,23,Tímido,No,Ninguno,No,Nunca,No,Casados,No,No,Si,Si,No,Si,No
-Mujer,18,Tímido,No,Ninguno,No,Nunca,No,Divorciados,Si,No,No,No,Si,Si,Si
+Hombre,23,Timido,No,Ninguno,No,Nunca,No,Casados,No,No,Si,Si,No,Si,No
+Mujer,18,Timido,No,Ninguno,No,Nunca,No,Divorciados,Si,No,No,No,Si,Si,Si
 Hombre,27,Amistoso,Si,Cigarrillo,Si,Mensualmente,Si,Viudos,No,Si,No,Si,No,No,No
-Hombre,21,Tímido,No,Ninguno,Si,De vez en cuando,Si,Casados,Si,No,Si,No,Si,Si,Si
+Hombre,21,Timido,No,Ninguno,Si,De vez en cuando,Si,Casados,Si,No,Si,No,Si,Si,Si
 Hombre,26,Amistoso,Si,Cigarrillo,Si,De vez en cuando,No,Casados,No,Si,Si,No,No,Si,No
 Hombre,43,Amistoso,No,Ninguno,Si,De vez en cuando,Si,Casados,Si,No,No,No,No,No,No
-Hombre,20,Tímido,No,Ninguno,No,Nunca,No,Casados,No,No,Si,Si,No,Si,Si
-Mujer,20,Tímido,No,Ninguno,Si,De vez en cuando,No,Separados,No,No,No,No,No,Si,No
+Hombre,20,Timido,No,Ninguno,No,Nunca,No,Casados,No,No,Si,Si,No,Si,Si
+Mujer,20,Timido,No,Ninguno,Si,De vez en cuando,No,Separados,No,No,No,No,No,Si,No
 Mujer,52,Amistoso,No,Ninguno,Si,De vez en cuando,No,Viudos,Si,No,No,No,No,Si,No
 Mujer,17,Amistoso,No,Ninguno,No,Nunca,No,Casados,No,Si,Si,Si,No,No,Si
-Mujer,29,Tímido,No,Ninguno,Si,De vez en cuando,Si,Casados,No,Si,No,Si,No,No,Si
+Mujer,29,Timido,No,Ninguno,Si,De vez en cuando,Si,Casados,No,Si,No,Si,No,No,Si
 Hombre,15,Amistoso,Si,Cigarrillo,Si,Mensualmente,No,Casados,Si,No,Si,Si,Si,Si,Si
 Hombre,26,Amistoso,Si,Cigarrillo,Si,Mensualmente,No,Casados,No,No,No,Si,No,Si,Si
 Hombre,68,Amistoso,No,Ninguno,Si,De vez en cuando,No,Otro,Si,No,No,No,No,Si,No
-Hombre,24,Tímido,No,Ninguno,Si,De vez en cuando,No,Separados,No,Si,No,No,No,Si,No
+Hombre,24,Timido,No,Ninguno,Si,De vez en cuando,No,Separados,No,Si,No,No,No,Si,No
 Mujer,20,Amistoso,No,Cigarrillo,Si,De vez en cuando,Si,Viudos,No,Si,Si,Si,No,Si,Si
 Mujer,63,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,No,No,No,No,No,Si,No
-Mujer,18,Tímido,No,Ninguno,No,Nunca,Si,Separados,No,Si,No,No,Si,Si,Si
-Hombre,32,Tímido,No,Cigarrillo,Si,De vez en cuando,Si,Separados,Si,No,Si,Si,No,Si,No
+Mujer,18,Timido,No,Ninguno,No,Nunca,Si,Separados,No,Si,No,No,Si,Si,Si
+Hombre,32,Timido,No,Cigarrillo,Si,De vez en cuando,Si,Separados,Si,No,Si,Si,No,Si,No
 Mujer,24,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,No,No,Si,Si,No,Si,Si
 Mujer,29,Amistoso,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
-Mujer,25,Tímido,No,Ninguno,Si,De vez en cuando,No,Viudos,Si,No,No,No,No,Si,No
+Mujer,25,Timido,No,Ninguno,Si,De vez en cuando,No,Viudos,Si,No,No,No,No,Si,No
 Mujer,20,Amistoso,No,Ninguno,Si,Mensualmente,No,Casados,No,No,No,No,No,Si,No
 Mujer,20,Amistoso,No,Ninguno,No,Nunca,Si,Casados,No,Si,No,Si,No,Si,Si
 Hombre,20,Amistoso,No,Ninguno,No,Nunca,Si,Casados,No,Si,Si,Si,No,No,No
-Mujer,23,Tímido,No,Cigarrillo,Si,De vez en cuando,Si,Casados,No,Si,Si,Si,Si,Si,Si
+Mujer,23,Timido,No,Cigarrillo,Si,De vez en cuando,Si,Casados,No,Si,Si,Si,Si,Si,Si
 Mujer,27,Amistoso,Si,Cigarrillo,Si,De vez en cuando,No,Casados,No,No,Si,Si,No,Si,No
-Mujer,22,Tímido,No,Ninguno,No,De vez en cuando,No,Otro,Si,No,No,No,No,Si,Si
-Hombre,16,Tímido,No,Ninguno,No,Nunca,No,Casados,Si,Si,No,No,No,Si,Si
+Mujer,22,Timido,No,Ninguno,No,De vez en cuando,No,Otro,Si,No,No,No,No,Si,Si
+Hombre,16,Timido,No,Ninguno,No,Nunca,No,Casados,Si,Si,No,No,No,Si,Si
 Mujer,31,Amistoso,No,Ninguno,No,Nunca,No,Viudos,Si,No,Si,Si,Si,Si,No
 Hombre,18,Amistoso,No,Ninguno,No,Nunca,No,Casados,No,Si,No,No,No,Si,No
 Hombre,20,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,No,No,No,No,No,Si,No
 Mujer,36,Amistoso,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
-Mujer,18,Tímido,No,Marihuana,No,De vez en cuando,No,Casados,No,Si,No,Si,Si,Si,Si
+Mujer,18,Timido,No,Marihuana,No,De vez en cuando,No,Casados,No,Si,No,Si,Si,Si,Si
 Hombre,33,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,No,No,No,Si,No
 Mujer,19,Amistoso,No,Ninguno,Si,De vez en cuando,Si,Casados,No,No,No,Si,No,Si,Si
 Hombre,23,Amistoso,No,Ninguno,Si,De vez en cuando,Si,Casados,No,No,No,Si,No,Si,No
-Hombre,16,Tímido,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,Si,Si,Si,Si,Si
-Hombre,24,Tímido,Si,Cigarrillo,Si,Semanalmente,No,Casados,No,Si,No,Si,Si,No,No
+Hombre,16,Timido,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,Si,Si,Si,Si,Si
+Hombre,24,Timido,Si,Cigarrillo,Si,Semanalmente,No,Casados,No,Si,No,Si,Si,No,No
 Hombre,19,Amistoso,No,Ninguno,No,Nunca,No,Casados,No,No,No,No,No,Si,Si
 Mujer,23,Amistoso,No,Ninguno,No,Nunca,Si,Casados,Si,No,No,No,Si,Si,Si
 Hombre,19,Amistoso,Si,Cigarrillo,Si,Semanalmente,No,Casados,Si,No,No,No,No,Si,No
-Mujer,51,Tímido,No,Ninguno,No,De vez en cuando,No,Otro,Si,No,Si,No,No,Si,No
-Hombre,28,Tímido,No,Ninguno,Si,De vez en cuando,Si,Separados,Si,Si,No,No,No,Si,No
+Mujer,51,Timido,No,Ninguno,No,De vez en cuando,No,Otro,Si,No,Si,No,No,Si,No
+Hombre,28,Timido,No,Ninguno,Si,De vez en cuando,Si,Separados,Si,Si,No,No,No,Si,No
 Hombre,28,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,Si,No,No,Si,No
-Hombre,26,Tímido,No,Ninguno,Si,Mensualmente,No,Viudos,Si,No,No,No,No,Si,No
+Hombre,26,Timido,No,Ninguno,Si,Mensualmente,No,Viudos,Si,No,No,No,No,Si,No
 Mujer,30,Amistoso,No,Cigarrillo,Si,Mensualmente,No,Viudos,Si,Si,No,No,No,Si,No
 Mujer,24,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,No,No,No,Si,No
-Hombre,24,Tímido,No,Ninguno,Si,De vez en cuando,No,Casados,No,No,No,No,No,No,Si
-Hombre,24,Tímido,No,Marihuana,No,Diariamente,No,Divorciados,Si,Si,Si,Si,Si,Si,Si
+Hombre,24,Timido,No,Ninguno,Si,De vez en cuando,No,Casados,No,No,No,No,No,No,Si
+Hombre,24,Timido,No,Marihuana,No,Diariamente,No,Divorciados,Si,Si,Si,Si,Si,Si,Si
 Mujer,24,Amistoso,No,Shisha,No,Diariamente,Si,Divorciados,Si,Si,Si,Si,Si,Si,Si
-Mujer,47,Tímido,No,Shisha,No,Diariamente,Si,Divorciados,Si,Si,Si,Si,Si,Si,Si
+Mujer,47,Timido,No,Shisha,No,Diariamente,Si,Divorciados,Si,Si,Si,Si,Si,Si,Si
 Hombre,20,Amistoso,No,Ninguno,Si,De vez en cuando,Si,Casados,No,Si,No,No,No,Si,No
-Hombre,20,Tímido,No,Ninguno,No,Nunca,Si,Separados,No,Si,Si,Si,No,No,Si
+Hombre,20,Timido,No,Ninguno,No,Nunca,Si,Separados,No,Si,Si,Si,No,No,Si
 Mujer,45,Amistoso,No,Ninguno,No,De vez en cuando,No,Otro,Si,No,Si,Si,No,Si,Si
 Mujer,70,Amistoso,No,Ninguno,No,Nunca,No,Casados,No,No,No,Si,No,Si,No
 Hombre,23,Amistoso,Si,Vapes,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
-Mujer,29,Tímido,No,Ninguno,No,De vez en cuando,Si,Viudos,Si,No,No,No,Si,No,Si
-Hombre,39,Tímido,No,Ninguno,Si,De vez en cuando,Si,Viudos,Si,No,Si,No,No,Si,Si
+Mujer,29,Timido,No,Ninguno,No,De vez en cuando,Si,Viudos,Si,No,No,No,Si,No,Si
+Hombre,39,Timido,No,Ninguno,Si,De vez en cuando,Si,Viudos,Si,No,Si,No,No,Si,Si
 Hombre,38,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,No,No,No,Si,No
 Mujer,38,Amistoso,No,Ninguno,Si,De vez en cuando,Si,Casados,No,No,Si,Si,No,Si,No
 Hombre,28,Amistoso,No,Ninguno,Si,De vez en cuando,No,Divorciados,Si,No,No,No,No,Si,No
 Mujer,30,Amistoso,Si,Cigarrillo,Si,Mensualmente,No,Casados,Si,No,Si,Si,No,Si,No
 Hombre,39,Amistoso,No,Ninguno,No,Nunca,No,Otro,Si,No,No,No,Si,Si,Si
-Mujer,20,Tímido,No,Ninguno,No,Nunca,Si,Otro,Si,No,No,No,No,Si,No
+Mujer,20,Timido,No,Ninguno,No,Nunca,Si,Otro,Si,No,No,No,No,Si,No
 Hombre,52,Amistoso,No,Ninguno,No,Nunca,No,Casados,Si,No,Si,Si,No,Si,No
 Mujer,21,Amistoso,No,Ninguno,Si,De vez en cuando,Si,Casados,No,No,Si,Si,No,Si,No
-Hombre,42,Tímido,Si,Cigarrillo,Si,Semanalmente,No,Viudos,Si,No,No,No,No,Si,No
-Mujer,23,Tímido,No,Ninguno,Si,De vez en cuando,Si,Casados,Si,Si,No,Si,No,No,Si
+Hombre,42,Timido,Si,Cigarrillo,Si,Semanalmente,No,Viudos,Si,No,No,No,No,Si,No
+Mujer,23,Timido,No,Ninguno,Si,De vez en cuando,Si,Casados,Si,Si,No,Si,No,No,Si
 Mujer,25,Amistoso,No,Ninguno,Si,De vez en cuando,No,Otro,No,No,No,No,No,Si,Si
-Mujer,20,Tímido,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
+Mujer,20,Timido,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
 Hombre,22,Amistoso,No,Ninguno,No,Nunca,No,Otro,Si,No,No,Si,Si,Si,Si
 Mujer,27,Amistoso,No,Ninguno,No,De vez en cuando,No,Casados,Si,No,No,No,Si,Si,Si
-Hombre,34,Tímido,Si,Shisha,No,Mensualmente,Si,Otro,No,No,Si,Si,Si,No,No
-Hombre,32,Tímido,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,No,No,No,Si,Si
-Mujer,40,Tímido,No,Ninguno,No,De vez en cuando,Si,Viudos,No,No,Si,Si,No,Si,Si
+Hombre,34,Timido,Si,Shisha,No,Mensualmente,Si,Otro,No,No,Si,Si,Si,No,No
+Hombre,32,Timido,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,No,No,No,Si,Si
+Mujer,40,Timido,No,Ninguno,No,De vez en cuando,Si,Viudos,No,No,Si,Si,No,Si,Si
 Mujer,22,Amistoso,No,Ninguno,No,Mensualmente,Si,Separados,No,No,No,Si,No,Si,Si
-Hombre,27,Tímido,No,Ninguno,Si,De vez en cuando,No,Viudos,Si,No,No,No,No,Si,No
+Hombre,27,Timido,No,Ninguno,Si,De vez en cuando,No,Viudos,Si,No,No,No,No,Si,No
 Hombre,27,Amistoso,No,Ninguno,Si,De vez en cuando,No,Otro,Si,No,No,Si,No,Si,No
-Hombre,25,Tímido,Si,Cigarrillo,Si,De vez en cuando,Si,Separados,No,Si,Si,No,No,No,Si
-Mujer,26,Tímido,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
-Hombre,20,Tímido,No,Ninguno,No,Nunca,No,Casados,No,No,No,No,Si,Si,Si
+Hombre,25,Timido,Si,Cigarrillo,Si,De vez en cuando,Si,Separados,No,Si,Si,No,No,No,Si
+Mujer,26,Timido,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
+Hombre,20,Timido,No,Ninguno,No,Nunca,No,Casados,No,No,No,No,Si,Si,Si
 Hombre,40,Amistoso,No,Ninguno,Si,Mensualmente,No,Otro,Si,No,Si,No,No,Si,No
 Hombre,23,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,No,No,Si,Si,No,Si,No
-Hombre,25,Tímido,Si,Cigarrillo,Si,Mensualmente,No,Casados,No,No,No,No,No,Si,No
-Hombre,26,Tímido,No,Ninguno,No,Nunca,Si,Casados,No,No,Si,Si,No,No,Si
-Hombre,24,Tímido,No,Ninguno,No,Nunca,Si,Otro,No,Si,No,No,Si,No,Si
-Mujer,16,Tímido,No,Cigarrillo,No,De vez en cuando,Si,Casados,No,Si,No,Si,Si,Si,Si
-Hombre,46,Tímido,No,Ninguno,Si,De vez en cuando,Si,Divorciados,Si,No,Si,Si,No,Si,No
+Hombre,25,Timido,Si,Cigarrillo,Si,Mensualmente,No,Casados,No,No,No,No,No,Si,No
+Hombre,26,Timido,No,Ninguno,No,Nunca,Si,Casados,No,No,Si,Si,No,No,Si
+Hombre,24,Timido,No,Ninguno,No,Nunca,Si,Otro,No,Si,No,No,Si,No,Si
+Mujer,16,Timido,No,Cigarrillo,No,De vez en cuando,Si,Casados,No,Si,No,Si,Si,Si,Si
+Hombre,46,Timido,No,Ninguno,Si,De vez en cuando,Si,Divorciados,Si,No,Si,Si,No,Si,No
 Hombre,28,Amistoso,No,Ninguno,No,Nunca,No,Divorciados,No,No,No,No,Si,No,No
 Hombre,19,Amistoso,Si,Cigarrillo,No,Nunca,No,Casados,Si,No,Si,Si,No,Si,No
 Mujer,38,Amistoso,No,Ninguno,Si,De vez en cuando,No,Separados,No,No,No,No,Si,Si,Si
-Hombre,35,Tímido,Si,Cigarrillo,Si,De vez en cuando,Si,Divorciados,Si,Si,No,No,Si,No,Si
+Hombre,35,Timido,Si,Cigarrillo,Si,De vez en cuando,Si,Divorciados,Si,Si,No,No,Si,No,Si
 Hombre,38,Amistoso,No,Ninguno,Si,De vez en cuando,Si,Separados,Si,No,No,Si,No,Si,No
-Hombre,23,Tímido,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
+Hombre,23,Timido,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
 Mujer,36,Amistoso,No,Ninguno,Si,De vez en cuando,No,Divorciados,No,No,No,No,No,Si,No
 Mujer,15,Amistoso,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,Si,Si,No
 Mujer,20,Amistoso,No,Ninguno,No,Nunca,Si,Divorciados,Si,No,No,No,No,Si,Si
-Hombre,40,Tímido,No,Ninguno,Si,Mensualmente,No,Casados,Si,No,No,No,No,Si,No
-Hombre,37,Tímido,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,No,No,No,Si,No
-Mujer,24,Tímido,No,Ninguno,No,Nunca,No,Casados,No,Si,No,No,No,No,No
+Hombre,40,Timido,No,Ninguno,Si,Mensualmente,No,Casados,Si,No,No,No,No,Si,No
+Hombre,37,Timido,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,No,No,No,Si,No
+Mujer,24,Timido,No,Ninguno,No,Nunca,No,Casados,No,Si,No,No,No,No,No
 Hombre,21,Amistoso,No,Ninguno,Si,Semanalmente,No,Casados,No,Si,No,No,No,Si,No
-Hombre,21,Tímido,No,Ninguno,Si,De vez en cuando,No,Casados,No,No,Si,No,No,Si,No
-Hombre,30,Tímido,Si,Cigarrillo,Si,Mensualmente,Si,Otro,No,No,No,Si,No,No,Si
+Hombre,21,Timido,No,Ninguno,Si,De vez en cuando,No,Casados,No,No,Si,No,No,Si,No
+Hombre,30,Timido,Si,Cigarrillo,Si,Mensualmente,Si,Otro,No,No,No,Si,No,No,Si
 Mujer,23,Amistoso,No,Ninguno,No,Nunca,No,Otro,No,No,No,No,No,Si,Si
 Mujer,27,Amistoso,No,Cigarrillo,Si,Semanalmente,Si,Viudos,No,No,No,Si,Si,Si,Si
 Hombre,24,Amistoso,No,Cigarrillo,Si,Diariamente,Si,Casados,Si,Si,Si,Si,Si,Si,Si
 Mujer,45,Amistoso,No,Ninguno,Si,De vez en cuando,Si,Viudos,No,No,Si,No,Si,Si,Si
-Hombre,25,Tímido,No,Marihuana,No,De vez en cuando,Si,Separados,No,Si,No,Si,Si,No,Si
-Hombre,24,Tímido,No,Cigarrillo,Si,Semanalmente,Si,Casados,No,No,No,Si,No,Si,Si
-Mujer,21,Tímido,No,Ninguno,Si,De vez en cuando,No,Casados,No,Si,No,Si,No,Si,Si
+Hombre,25,Timido,No,Marihuana,No,De vez en cuando,Si,Separados,No,Si,No,Si,Si,No,Si
+Hombre,24,Timido,No,Cigarrillo,Si,Semanalmente,Si,Casados,No,No,No,Si,No,Si,Si
+Mujer,21,Timido,No,Ninguno,Si,De vez en cuando,No,Casados,No,Si,No,Si,No,Si,Si
 Hombre,37,Amistoso,No,Ninguno,Si,De vez en cuando,Si,Casados,No,No,No,No,No,Si,No
-Hombre,27,Tímido,No,Ninguno,Si,De vez en cuando,No,Separados,No,No,No,No,Si,Si,No
+Hombre,27,Timido,No,Ninguno,Si,De vez en cuando,No,Separados,No,No,No,No,Si,Si,No
 Mujer,35,Amistoso,No,Ninguno,Si,De vez en cuando,No,Casados,Si,No,No,No,No,Si,No
-Hombre,19,Tímido,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
+Hombre,19,Timido,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
 Hombre,22,Amistoso,Si,Marihuana,Si,Diariamente,No,Casados,Si,No,No,No,No,Si,No
 Hombre,20,Amistoso,No,Ninguno,No,Nunca,No,Casados,No,No,Si,Si,No,No,Si
 Hombre,22,Amistoso,No,Ninguno,Si,De vez en cuando,Si,Casados,No,No,Si,Si,No,Si,Si
-Hombre,19,Tímido,No,Cigarrillo,Si,Mensualmente,Si,Casados,No,No,Si,No,No,No,No
-Mujer,20,Tímido,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
-Hombre,21,Tímido,No,Ninguno,No,Nunca,No,Casados,No,Si,Si,Si,No,No,Si
-Mujer,21,Tímido,No,Cigarrillo,Si,De vez en cuando,Si,Casados,No,Si,No,No,Si,No,Si
-Mujer,26,Tímido,No,Ninguno,No,Nunca,Si,Casados,Si,Si,No,No,Si,No,Si
+Hombre,19,Timido,No,Cigarrillo,Si,Mensualmente,Si,Casados,No,No,Si,No,No,No,No
+Mujer,20,Timido,No,Ninguno,No,Nunca,No,Casados,Si,No,No,No,No,Si,No
+Hombre,21,Timido,No,Ninguno,No,Nunca,No,Casados,No,Si,Si,Si,No,No,Si
+Mujer,21,Timido,No,Cigarrillo,Si,De vez en cuando,Si,Casados,No,Si,No,No,Si,No,Si
+Mujer,26,Timido,No,Ninguno,No,Nunca,Si,Casados,Si,Si,No,No,Si,No,Si
 Mujer,20,Amistoso,No,Cigarrillo,No,Nunca,Si,Separados,No,Si,No,No,Si,Si,Si
-Mujer,23,Tímido,No,Ninguno,Si,De vez en cuando,Si,Casados,No,Si,No,Si,Si,No,Si
+Mujer,23,Timido,No,Ninguno,Si,De vez en cuando,Si,Casados,No,Si,No,Si,Si,No,Si
